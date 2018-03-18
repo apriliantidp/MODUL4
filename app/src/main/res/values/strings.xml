@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">APRILIANTI_1202150276_MODUL4</string>
+    <string-array name="namaMhs">
+        <item>Selena Gomez</item>
+        <item>Justin Bieber</item>
+        <item>The Weekend </item>
+        <item>Bella Hadid</item>
+        <item>Adam Levine</item>
+        <item>Gigi Hadid</item>
+        <item>Zayn Malik</item>
+        <item>Leonardo</item>
+        <item>Johny Depp</item>
+        <item>Taylor Swift</item>
+        <item>Hailee S</item>
+        <item>Abdul</item>
+        <item>Rahman </item>
+
+    </string-array>
+</resources>
